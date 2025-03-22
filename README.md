@@ -1,4 +1,4 @@
-# Interactive Chat Avatar
+# Chat Avatar LLM
 
 An interactive chat avatar powered by LLaMA, SadTalker, and ElevenLabs. This project creates a realistic talking avatar that responds to user input with natural language and facial expressions.
 
@@ -108,13 +108,6 @@ python src/main.py
    - Check internet connection
    - Ensure enough disk space for models
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License
 
 ## Acknowledgments
 
