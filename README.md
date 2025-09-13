@@ -21,8 +21,8 @@ An interactive chat avatar powered by LLaMA, SadTalker, and ElevenLabs. This pro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MikeD2802/interactive-chat-avatar.git
-cd interactive-chat-avatar
+git clone https://github.com/amaanmithani/chat_avatar_llm.git
+cd chat_avatar_llm
 ```
 
 2. Create and activate a conda environment:
