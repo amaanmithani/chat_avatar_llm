@@ -1,4 +1,4 @@
-# Chat Avatar LLM
+# Interactive Chat Avatar with LLMs
 
 An interactive chat avatar powered by LLaMA, SadTalker, and ElevenLabs. This project creates a realistic talking avatar that responds to user input with natural language and facial expressions.
 
