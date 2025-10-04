@@ -110,7 +110,13 @@ python src/main.py
 
 
 [Watch Demo](vid11.mp4)
-Screenshots 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="sc1_img.png" alt="img" width="250"/>
+  <img src="sc2_img.png" alt="img" width="250"/>
+
+</p>
 
 
 
