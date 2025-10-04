@@ -1,14 +1,14 @@
 # Interactive Chat Avatar with LLMs
 
-An interactive chat avatar powered by LLaMA, SadTalker, and ElevenLabs. This project creates a realistic talking avatar that responds to user input with natural language and facial expressions.
+An AI-powered interactive avatar built with **LLaMA**, **SadTalker**, and **ElevenLabs**. This project brings conversations to life by generating natural responses with synchronized speech and realistic facial expressions.  
 
 ## Features
 
-* Realistic talking avatar using SadTalker
-* Natural language responses using LLaMA
-* High-quality voice synthesis with ElevenLabs
-* Real-time chat interface using Gradio
-* Automatic model downloading and setup
+* 🎭 Realistic facial animation using SadTalker  
+* 🧠 Conversational responses powered by LLaMA  
+* 🔊 High-quality voice synthesis with ElevenLabs  
+* ⚡ Real-time chat interface built with Gradio  
+* 🔄 Automatic model setup and downloading for seamless deployment  
 
 ## Prerequisites
 
