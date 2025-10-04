@@ -109,7 +109,9 @@ python src/main.py
    - Ensure enough disk space for models
 
 
-[Watch Demo](assets/demo.mp4)
+[Watch Demo](vid11.mp4)
+Screenshots 
+
 
 
 ## Acknowledgments
