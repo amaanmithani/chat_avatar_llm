@@ -109,6 +109,9 @@ python src/main.py
    - Ensure enough disk space for models
 
 
+[Watch Demo](assets/demo.mp4)
+
+
 ## Acknowledgments
 
 * [SadTalker](https://github.com/OpenTalker/SadTalker) for the talking face animation
