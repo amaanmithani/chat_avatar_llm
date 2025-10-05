@@ -114,7 +114,7 @@ python src/main.py
 
 <p align="center">
   <img src="sc1_img.png" alt="img" width="250"/>
-  <img src="sc2_img.png" alt="img" width="250"/>
+  <img src="sc3_imgg.gif" alt="img" width="250"/>
 
 </p>
 
